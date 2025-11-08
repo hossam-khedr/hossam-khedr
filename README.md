@@ -34,12 +34,12 @@
 
 ### 📊 GitHub Insights  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HossamKhedr&show_icons=true&theme=graywhite&hide_border=true&title_color=0078FF&icon_color=0078FF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=HossamKhedr&theme=default&hide_border=true&ring=0078FF&fire=0078FF&currStreakLabel=0078FF" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hossam-khedr&show_icons=true&theme=graywhite&hide_border=true&title_color=0078FF&icon_color=0078FF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hossam-khedr&theme=default&hide_border=true&ring=0078FF&fire=0078FF&currStreakLabel=0078FF" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamKhedr&layout=compact&theme=graywhite&hide_border=true&title_color=0078FF" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossam-khedr&layout=compact&theme=graywhite&hide_border=true&title_color=0078FF" />
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HossamKhedr&label=Profile%20Views&color=0078FF&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hossam-khedr&label=Profile%20Views&color=0078FF&style=flat-square" alt="profile views" />
 </p>
 
 ---
